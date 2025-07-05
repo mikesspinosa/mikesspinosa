@@ -56,14 +56,14 @@
 
 ###
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="left" style="border: none;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0; padding: 0;">
+  <tr style="border: none;">
+    <td width="50%" align="left" style="border: none; padding: 0; margin: 0; vertical-align: top;">
       <a href="https://open.spotify.com/user/coder612">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=coder612&count=3&unique=true" alt="Spotify recently played"  />
       </a>
     </td>
-    <td width="50%" align="right" style="border: none;">
+    <td width="50%" align="right" style="border: none; padding: 0; margin: 0; vertical-align: top;">
       <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VlMTh6NjQxbjYydjRsZnd2aWFpbWtvZ2E1NmZ0a3hmcGV1M2czeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7E8tiGcPf1G78dMXRf/giphy.gif"  />
     </td>
   </tr>
