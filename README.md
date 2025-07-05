@@ -56,7 +56,7 @@
 
 ###
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="left" style="border: none;">
       <a href="https://open.spotify.com/user/coder612">
